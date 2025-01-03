@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**gabrielms040/gabrielms040** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Desenvolvedor   
 
-Here are some ideas to get you started:
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel87.6/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=154c79&height=150&section=header&animation=twinkling&fontAligny=35"/>
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabrielms040&theme=tokyonight&show_icons=true&locale=pt-br" alt="Gabriel github stats" /> 
+</div>
+
+<br>
+
+- 💻 Cursando Sistemas de Informação em Uberlândia - Uniube
+- 🔧 Conhecimentos sobre a base de JavaScript, Node, Python, HTML e CSS
+- Iniciando minha carreira em busca de sempre estar atualizado e consistente  
+
+<br>
+<div align="center"> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielms040&layout=compact&locale=pt-br&theme=tokyonight&show" />
+</div>
