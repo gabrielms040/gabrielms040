@@ -13,7 +13,7 @@
 <br>
 
 - 💻 Cursando Sistemas de Informação em Uberlândia - Uniube
-- 🔧 Conhecimentos sobre a base de JavaScript, Node, Python, HTML e CSS
+- 🔧 Conhecimentos sobre a base de ADVPL, JavaScript, Node, Python, HTML e CSS
 - Iniciando minha carreira em busca de sempre estar atualizado e consistente  
 
 <br>
