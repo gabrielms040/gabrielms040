@@ -11,6 +11,3 @@
 -  Desenvolvedor atuando na area de integrações e soluções personalizadas para ERP TOTVS
 
 <br>
-<div align="center"> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielms040&layout=compact&locale=pt-br&theme=tokyonight&show" />
-</div>
